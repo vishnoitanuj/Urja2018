@@ -132,14 +132,14 @@
 	}
 
 	body {
-		display: -moz-flex;
-		display: -webkit-flex;
-		display: -ms-flex;
-		display: flex;
+		/*display: -moz-flex;*/
+		/*!*display: -webkit-flex;*!*/
+		/*display: -ms-flex;*/
+		/*!*display: flex;*!*/
 		-moz-align-items: center;
 		-webkit-align-items: center;
 		-ms-align-items: center;
-		align-items: center;
+		/*align-items: center;*/
 		-moz-justify-content: -moz-flex-start;
 		-webkit-justify-content: -webkit-flex-start;
 		-ms-justify-content: -ms-flex-start;
@@ -171,7 +171,6 @@
 			content: '';
 			display: block;
 			position: absolute;
-			top: 50%;
 			left: 50%;
 			width: 4rem;
 			height: 4rem;
@@ -198,7 +197,7 @@
 			z-index: -1;
 			background-attachment: fixed;
 			background-color: #e1e6e1;
-			background-image: url("../../images/overlay.png"), url("../../images/play.jpg");
+			background-image: url("../../images/overlay.png"), url("../../images/stadium.jpg");
 			background-repeat: repeat, repeat-x;
 			background-size: 128px 128px, cover;
 		}
@@ -1988,7 +1987,7 @@
 			}
 
 			.gallery .group .span-1-75 {
-				width: 58.33333%;
+				width: 100%;
 			}
 
 			.gallery .group .span-2 {
@@ -3310,7 +3309,7 @@
 	@media screen and (max-width: 736px) {
 
 		.panel.banner .content {
-			padding: 2.8875rem 1.75rem 1.3875rem 1.75rem ;
+			/*padding: 2.8875rem 1.75rem 1.3875rem 1.75rem ;*/
 			-moz-flex-basis: 60%;
 			-webkit-flex-basis: 60%;
 			-ms-flex-basis: 60%;
