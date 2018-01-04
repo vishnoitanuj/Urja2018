@@ -36,7 +36,7 @@ document.getElementById('contact').addEventListener('submit', submitForm);
      },3000);
 
      //clear Form
-     document.getElementById('contact').reset();
+     document.('contact').reset();
  }
 
  function  getInputVal(id) {
