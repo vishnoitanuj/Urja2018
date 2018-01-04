@@ -26,9 +26,9 @@
 		<meta name="msapplication-TileColor" content="#ffffff">
 		<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 		<meta name="theme-color" content="#ffffff">
-		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 		<link href="https://fonts.googleapis.com/css?family=Bungee|Merriweather+Sans|Pacifico" rel="stylesheet">
@@ -106,7 +106,7 @@
 		</div>
 	</nav>
 
-	<div id="contact" class="modal fade" role="dialog" style="font-family: 'Merriweather', serif;">
+	<div id="contact" class="modal fade container" role="dialog" style="font-family: 'Merriweather', serif;">
 		<div class="modal-dialog modal-lg">
 			<div class="modal-content">
 				<div class="modal-header" style="background-image: url('images/stadium.jpg');">
@@ -122,21 +122,22 @@
 						<!--</div>-->
 						<div class="inner columns divided">
 							<div class="span-3-25">
-								<form method="post" action="#">
+								<div class="alert">Your Message has been sent.</div>
+								<form>
 									<div class="field half">
 										<label for="name">Name</label>
-										<input type="text" name="name" id="name" />
+										<input id="conName" type="text" name="name" id="name" />
 									</div>
 									<div class="field half">
 										<label for="email">Email</label>
-										<input type="email" name="email" id="email" />
+										<input id="conEmail" type="email" name="email" id="email" />
 									</div>
 									<div class="field">
 										<label for="message">Message</label>
-										<textarea name="message" id="message" rows="4"></textarea>
+										<textarea id="conMessage" name="message" id="message" rows="4"></textarea>
 									</div>
 									<ul class="actions">
-										<li><input type="submit" value="Send Message" class="button special" /></li>
+										<li><input type="submit" class="button special" /></li>
 									</ul>
 								</form>
 							</div>
@@ -614,6 +615,11 @@
 
 			</div>
 		<!-- Scripts -->
+
+
+	<script src="https://www.gstatic.com/firebasejs/4.8.1/firebase.js"></script>
+			<script src="assets/js/index.js"></script>
+
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/skel.min.js"></script>
 			<script src="assets/js/main.js"></script>

@@ -3669,3 +3669,13 @@
 			}
 
 	}
+
+/*Contact Form*/
+.alert{
+	text-align: center;
+	padding: 10px;
+	background: #52da1a;
+	color: #FFFFFF;
+	margin-bottom: 10px;
+	display: none;
+}

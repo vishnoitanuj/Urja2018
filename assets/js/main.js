@@ -57,7 +57,7 @@
 				},
 
 			// If set to a valid selector , prevents key/mouse events from bubbling from these elements.
-				excludeSelector: 'input:focus, select:focus, textarea:focus, audio, video, iframe',
+			// 	excludeSelector: 'input:focus, select:focus, textarea:focus, audio, video, iframe',
 
 			// Link scroll speed.
 				linkScrollSpeed: 1000

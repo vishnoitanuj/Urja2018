@@ -1990,3 +1990,14 @@ article img.pull-right, article .align-right{
 @media (max-width: 360px) {
 
 }
+
+
+/*Contact Form*/
+.alert{
+	text-align: center;
+	padding: 10px;
+	background: #52da1a;
+	color: #FFFFFF;
+	margin-bottom: 10px;
+	display: none;
+}
