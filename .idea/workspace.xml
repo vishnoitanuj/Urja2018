@@ -1,76 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1c421d8-979d-4dcd-a4de-94c4a4bb3236" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/register/js/index.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/blog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/css/custom-fonts.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/css/fancybox/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/css/fancybox/fancybox_loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/css/fancybox/fancybox_overlay.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/css/fancybox/fancybox_sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/css/fancybox/jquery.fancybox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/css/flexslider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/css/jcarousel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/css/overwrite.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/fonts/customicon/Icons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/fonts/customicon/Icons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/fonts/customicon/Icons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/fonts/customicon/Icons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/img/MananVohra.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/img/avatar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/img/bg_direction_nav.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/img/glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/img/glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/img/nivo-bullets.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/img/slides/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/img/slides/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/img/slides/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/img/works/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/img/works/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/img/works/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/img/works/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/img/works/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/img/works/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/img/works/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/img/works/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/js/animate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/js/custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/js/flexslider/jquery.flexslider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/js/flexslider/setting.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/js/google-code-prettify/prettify.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/js/google-code-prettify/prettify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/js/jquery.easing.1.3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/js/jquery.fancybox-media.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/js/jquery.fancybox.pack.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/js/jquery.flexslider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/js/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/js/portfolio/jquery.quicksand.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/js/portfolio/setting.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/js/quicksand/jquery.quicksand.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/js/quicksand/setting.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/js/validate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/portfolio.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/posts/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/posts/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/posts/urjacover.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/pricingbox.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Moderna/skins/default.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="a1c421d8-979d-4dcd-a4de-94c4a4bb3236" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -407,12 +338,12 @@
       <workItem from="1514995381262" duration="11000000" />
       <workItem from="1515014135273" duration="11409000" />
       <workItem from="1515165555609" duration="20000" />
-      <workItem from="1515165600220" duration="5960000" />
+      <workItem from="1515165600220" duration="5999000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43042000" />
+    <option name="totallyTimeSpent" value="43081000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="683" y="30" width="1366" height="738" extended-state="6" />
