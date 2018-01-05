@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <title>Urja: Thapar Institute</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <link rel="apple-touch-icon" sizes="57x57" href="../images/favicon/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="../images/favicon/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="../images/favicon/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="../images/favicon/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="../images/favicon/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="../images/favicon/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="../images/favicon/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="../images/favicon/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="../images/favicon/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="../images/favicon/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../images/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="../images/favicon/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../images/favicon/favicon-16x16.png">
+  <link rel="manifest" href="../images/favicon/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="../images/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+
+  <!--Bootstrap Files-->
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+      <link rel="stylesheet" href="css/style.css">
+
+        <link rel="stylesheet" href="css/normalize.css">
+        <link href='https://fonts.googleapis.com/css?family=Nunito:400,300' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="css/main.css">
+    </head>
+    <body>
+      <div class="alert">Your have been successfully registered.</div>
+      <form id="register">
+      
+        <h1>Urja 2018 Team Registrations</h1>
+        
+        <fieldset>
+          <legend><span class="number">1</span>Team basic info</legend>
+
+          <label for="name">College Name:</label>
+          <input type="text" id="Collegename" name="college_name" required="required">
+
+          <label for="name">Captain Name:</label>
+          <input type="text" id="Capname" name="cap_name" required="required">
+          
+          <label for="mail">Contact Email:</label>
+          <input type="email" id="mail" name="user_email" required="required">
+
+          <label for="number">Contact Number:</label>
+          <input type="text" id="number" name="user_num" required="required">
+
+          <label for="number">Alternate Contact Number:</label>
+          <input type="text" id="number2" name="user_num2" placeholder="Leave Blank if not">
+          <!--<label>Age:</label>-->
+          <!--<input type="radio" id="under_13" value="under_13" name="user_age"><label for="under_13" class="light">Under 13</label><br>-->
+          <!--<input type="radio" id="over_13" value="over_13" name="user_age"><label for="over_13" class="light">13 or older</label>-->
+        </fieldset>
+        
+        <fieldset>
+          <legend><span class="number">2</span>Game Details</legend>
+          <label for="bio">Experience and Accomplishments:</label>
+          <textarea id="bio" name="user_bio"></textarea>
+
+          <label for="job">Sport:</label>
+          <select id="job" name="user_job">
+            <optgroup label="Athletics">
+              <option value="Athletics 100m">100m</option>
+              <option value="Athletics 200m">200m</option>
+              <option value="Athletics 400m">400m</option>
+              <option value="Athletics 800m">800m</option>
+              <option value="Athletics 4x100m">4x100m</option>
+              <option value="Athletics Shot-put Men">Shot-put: Men</option>
+              <option value="Athletics Shot-put Women">Shot-put: Women</option>
+              <option value="Athletics Discus Throw">Discus Throw: Men</option>
+            </optgroup>
+            <optgroup label="Basketball">
+              <option value="basketball men">Men</option>
+              <option value="basketball women">Women</option>
+            </optgroup>
+            <optgroup label="Chess">
+              <option value="chess men">Men</option>
+              <option value="chess women">Women</option>
+            </optgroup>
+            <optgroup label="Football">
+              <option value="football men">Men</option>
+            </optgroup>
+            <optgroup label="Lawn Tennis">
+              <option value="lawn men">Men</option>
+              <option value="lawn women">Women</option>
+            </optgroup>
+            <optgroup label="Table Tennis">
+              <option value="tt men">Men</option>
+              <option value="tt women">Women</option>
+            </optgroup>
+            <optgroup label="Volleyball">
+              <option value="volleyball men">Men</option>
+            </optgroup>
+            <optgroup label="Cricket">
+              <option value="cricket men">Men</option>
+            </optgroup>
+          </select>
+        </fieldset>
+        <fieldset>
+          <legend><span class="number">3</span>Transcation Details</legend>
+
+          <label for="name">Transcation Id:</label>
+          <input type="text" id="transaction" name="transaction_id" required="required">
+          <!--<label>Age:</label>-->
+          <!--<input type="radio" id="under_13" value="under_13" name="user_age"><label for="under_13" class="light">Under 13</label><br>-->
+          <!--<input type="radio" id="over_13" value="over_13" name="user_age"><label for="over_13" class="light">13 or older</label>-->
+        </fieldset>
+        <!--<fieldset>-->
+        <!---->
+          <!--<label>Interests:</label>-->
+          <!--<input type="checkbox" id="development" value="interest_development" name="user_interest"><label class="light" for="development">Development</label><br>-->
+            <!--<input type="checkbox" id="design" value="interest_design" name="user_interest"><label class="light" for="design">Design</label><br>-->
+          <!--<input type="checkbox" id="business" value="interest_business" name="user_interest"><label class="light" for="business">Business</label>-->
+        <!---->
+        <!--</fieldset>-->
+        <button type="submit">Register</button>
+      </form>
+      <script src="https://www.gstatic.com/firebasejs/4.8.1/firebase.js"></script>
+      <script src="js/index.js"></script>
+      <script src="../assets/js/jquery.min.js"></script>
+    </body>
+</html>
+  
+  
+
+</body>
+
+</html>
