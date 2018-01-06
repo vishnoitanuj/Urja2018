@@ -25,7 +25,7 @@ document.getElementById('contact').addEventListener('submit', submitForm);
      var message = getInputVal('conMessage');
 
      //Save Message
-     saveMessage(name,email,message);
+     saveMessage(name, email, message);
 
      //Show Alert
      document.querySelector('.alert').style.display = 'block';
@@ -33,10 +33,10 @@ document.getElementById('contact').addEventListener('submit', submitForm);
      //Hide alert after 3 seconds
      setTimeout(function () {
          document.querySelector('.alert').style.display = 'none';
-     },3000);
+     }, 3000);
 
-     //clear Form
-     document.('contact').reset();
+     // //clear Form
+     // document.('contact').reset();
  }
 
  function  getInputVal(id) {
