@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1c421d8-979d-4dcd-a4de-94c4a4bb3236" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Urjablog/blog.html" afterPath="$PROJECT_DIR$/Urjablog/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="a1c421d8-979d-4dcd-a4de-94c4a4bb3236" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,17 +21,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Urjablog/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-450">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="555">
+              <caret line="67" column="51" lean-forward="true" selection-start-line="63" selection-start-column="35" selection-end-line="67" selection-end-column="51" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-855">
@@ -337,12 +334,12 @@
       <workItem from="1514995381262" duration="11000000" />
       <workItem from="1515014135273" duration="11409000" />
       <workItem from="1515165555609" duration="20000" />
-      <workItem from="1515165600220" duration="16214000" />
+      <workItem from="1515165600220" duration="16268000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53296000" />
+    <option name="totallyTimeSpent" value="53350000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="683" y="30" width="1366" height="738" extended-state="6" />
@@ -735,18 +732,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Urjablog/index.html">
+    <entry file="file://$PROJECT_DIR$/about/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-450">
+        <state relative-caret-position="-855">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.html">
+    <entry file="file://$PROJECT_DIR$/Urjablog/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-855">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="555">
+          <caret line="67" column="51" lean-forward="true" selection-start-line="63" selection-start-column="35" selection-end-line="67" selection-end-column="51" />
           <folding />
         </state>
       </provider>
