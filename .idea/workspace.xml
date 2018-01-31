@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1c421d8-979d-4dcd-a4de-94c4a4bb3236" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Urjablog/blog.html" afterPath="$PROJECT_DIR$/Urjablog/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.html" afterPath="$PROJECT_DIR$/about/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="373" column="55" lean-forward="false" selection-start-line="373" selection-start-column="55" selection-end-line="373" selection-end-column="55" />
+            <state relative-caret-position="-750">
+              <caret line="364" column="40" lean-forward="true" selection-start-line="364" selection-start-column="40" selection-end-line="364" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -59,14 +57,14 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="55080">
-              <caret line="3672" column="0" lean-forward="false" selection-start-line="3672" selection-start-column="0" selection-end-line="3680" selection-end-column="1" />
+            <state relative-caret-position="288">
+              <caret line="2172" column="29" lean-forward="true" selection-start-line="2172" selection-start-column="29" selection-end-line="2172" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blog.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="blog.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Urjablog/blog.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -91,7 +89,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>span-7</find>
       <find>major</find>
       <find>back</find>
       <find>rajdhani</find>
@@ -121,6 +118,7 @@
       <find>urja</find>
       <find>contact</find>
       <find>intro-bg.jpg</find>
+      <find>panel</find>
     </findStrings>
     <replaceStrings>
       <replace>contact1</replace>
@@ -142,7 +140,6 @@
       <list>
         <option value="$PROJECT_DIR$/assets/js/background.js" />
         <option value="$PROJECT_DIR$/Moderna/css/flexslider.css" />
-        <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/assets/js/smoothscroll.js" />
         <option value="$PROJECT_DIR$/assets/js/main.js" />
         <option value="$PROJECT_DIR$/Moderna/css/style.css" />
@@ -161,9 +158,10 @@
         <option value="$PROJECT_DIR$/assets/js/index.js" />
         <option value="$PROJECT_DIR$/About Us/index.html" />
         <option value="$PROJECT_DIR$/About Us/css/style.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/about/index.html" />
         <option value="$PROJECT_DIR$/Urjablog/blog.html" />
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -207,6 +205,17 @@
             <path>
               <item name="Urja2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="Urja2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Urja2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Urja2018" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Urja2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Urja2018" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Urja2018" type="b2602c69:ProjectViewProjectNode" />
@@ -337,12 +346,12 @@
       <workItem from="1515165555609" duration="20000" />
       <workItem from="1515165600220" duration="16450000" />
       <workItem from="1517156471535" duration="1660000" />
-      <workItem from="1517399010168" duration="2464000" />
+      <workItem from="1517399010168" duration="2823000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57656000" />
+    <option name="totallyTimeSpent" value="58015000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="683" y="30" width="1366" height="738" extended-state="6" />
@@ -566,24 +575,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55080">
-          <caret line="3672" column="0" lean-forward="false" selection-start-line="3672" selection-start-column="0" selection-end-line="3680" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/About Us/index.html" />
     <entry file="file://$PROJECT_DIR$/About Us/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="373" column="55" lean-forward="false" selection-start-line="373" selection-start-column="55" selection-end-line="373" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -607,6 +600,22 @@
           <folding>
             <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="2172" column="29" lean-forward="true" selection-start-line="2172" selection-start-column="29" selection-end-line="2172" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-750">
+          <caret line="364" column="40" lean-forward="true" selection-start-line="364" selection-start-column="40" selection-end-line="364" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>
