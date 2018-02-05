@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1c421d8-979d-4dcd-a4de-94c4a4bb3236" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/css/style.css" afterPath="$PROJECT_DIR$/about/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.html" afterPath="$PROJECT_DIR$/about/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/register/index.html" afterPath="$PROJECT_DIR$/register/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,11 +23,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="214">
               <caret line="256" column="12" lean-forward="false" selection-start-line="256" selection-start-column="12" selection-end-line="256" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/register/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="137" column="23" lean-forward="false" selection-start-line="129" selection-start-column="12" selection-end-line="137" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -164,7 +172,6 @@
         <option value="$PROJECT_DIR$/Registrations/index.html" />
         <option value="$PROJECT_DIR$/register/css/style.css" />
         <option value="$PROJECT_DIR$/register/js/index.js" />
-        <option value="$PROJECT_DIR$/register/index.html" />
         <option value="$PROJECT_DIR$/Urjablog/portfolio.html" />
         <option value="$PROJECT_DIR$/assets/js/index.js" />
         <option value="$PROJECT_DIR$/About Us/index.html" />
@@ -174,6 +181,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/about/css/style.css" />
         <option value="$PROJECT_DIR$/about/index.html" />
+        <option value="$PROJECT_DIR$/register/index.html" />
       </list>
     </option>
   </component>
@@ -227,6 +235,11 @@
               <item name="Urja2018" type="462c0819:PsiDirectoryNode" />
               <item name="about" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Urja2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Urja2018" type="462c0819:PsiDirectoryNode" />
+              <item name="register" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Urja2018" type="b2602c69:ProjectViewProjectNode" />
@@ -359,12 +372,12 @@
       <workItem from="1515165600220" duration="16450000" />
       <workItem from="1517156471535" duration="1660000" />
       <workItem from="1517399010168" duration="3416000" />
-      <workItem from="1517814202647" duration="446000" />
+      <workItem from="1517814202647" duration="562000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59054000" />
+    <option name="totallyTimeSpent" value="59170000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="683" y="30" width="1366" height="738" extended-state="6" />
@@ -572,13 +585,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/register/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="91" column="43" lean-forward="true" selection-start-line="91" selection-start-column="43" selection-end-line="91" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -635,6 +641,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
           <caret line="256" column="12" lean-forward="false" selection-start-line="256" selection-start-column="12" selection-end-line="256" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="137" column="23" lean-forward="false" selection-start-line="129" selection-start-column="12" selection-end-line="137" selection-end-column="23" />
           <folding />
         </state>
       </provider>
